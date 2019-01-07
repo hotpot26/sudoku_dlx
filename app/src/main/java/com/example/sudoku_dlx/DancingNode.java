@@ -1,3 +1,9 @@
+/**
+ * Code is from:
+ * https://www.baeldung.com/java-sudoku,
+ * https://github.com/eugenp/tutorials/tree/master/algorithms-miscellaneous-2.
+ * Minor changes made to the code to make it a library.
+ */
 package com.example.sudoku_dlx;
 
 class DancingNode {
